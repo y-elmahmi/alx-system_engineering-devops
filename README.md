@@ -1,1 +1,15 @@
 # alx-system_engineering-devops
+
+## Learning Objectives
+
+* What is the Shell *
+* What is the difference between a terminal and a shell *
+* What is the shell prompt
+* How to use the history (the basics)
+* Shell navigation basics 
+* Shell navigation Permissions
+
+## Project 
+* 0x00. Shell, basics
+* 0x01. Shell, permissions
+
