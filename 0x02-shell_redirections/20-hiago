@@ -1,2 +1,2 @@
 #!/bin/bas
-tr -d "Cc"
+tr -d "cC"
